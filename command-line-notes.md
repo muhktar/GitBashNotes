@@ -1,4 +1,4 @@
-# Command line tools,Installing chocolatey, Installing gitbash
+# Command line functions,Installing chocolatey, Installing gitbash
 
 ## Installing chocolatey
 Choclatey enabels you to install and uninstall applications from your Windows Powershell.
@@ -7,8 +7,9 @@ Then paste this into powershell and hit enter to install choclatey:
 
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-
-explorer . makes file explorer open
+## Command line functions
+* explorer . 
+**makes file explorer open
 type ls and all files appear and hidden files as weell
 
 cd (dir name)changes directory  ls list them
