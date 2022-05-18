@@ -8,7 +8,13 @@ Then paste this into powershell and hit enter to install choclatey:
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 ## Command line functions
-* explorer .        This function makes the file explorer open
+* explorer .
+
+This function makes the file explorer open
+* cd (directory name)
+
+This function changes the directory  placing you in the directory of your choice
+
 type ls and all files appear and hidden files as weell
 
 cd (dir name)changes directory  ls list them
