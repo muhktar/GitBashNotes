@@ -1,4 +1,11 @@
-# install gitbash
+# Command line tools,Installing chocolatey, Installing gitbash
+
+##Installing chocolatey
+Choclatey enabels you to install and uninstall applications from your Windows Powershell.
+First open Windows powershell right click it and run it as an adminstrator.
+Then paste this into powershell and hit enter to install choclatey:
+    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
 
 explorer . makes file explorer open
 type ls and all files appear and hidden files as weell
@@ -34,4 +41,6 @@ after these your repo will be online
 
 https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html
 
-# makes title big ## makes it smaller and so on and so on(has to be .md file)
+# makes title big 
+## makes title smaller than before
+### makes title even smaller, and so on and so on(has to be .md file)
