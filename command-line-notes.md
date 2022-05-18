@@ -11,6 +11,7 @@ Then paste this into powershell and hit enter to install choclatey:
 * explorer .
 
 This function makes the file explorer open
+
 * cd (directory name)
 
 This function changes the directory  placing you in the directory of your choice
@@ -19,12 +20,21 @@ This function changes the directory  placing you in the directory of your choice
 
 This Function list out all the files as well as the hidden files in your current directory
 
-touch creates file 
-mkdir makes directror
+* mkdir 
 
-nano makes you able to add words to a file 
+This function creates a directroy
 
-cat shows contents of a file
+* touch
+
+Thus function creates a file 
+
+* nano
+
+This function enable you to add words to a file 
+
+* cat 
+
+This Function shows you the contents of a file
 
 ### on powershell to install programs:
 choco install (program name)
