@@ -34,3 +34,4 @@ after these your repo will be online
 
 https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html
 
+# makes title big ## makes it smaller and so on and so on(has to be .md file)
