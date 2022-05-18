@@ -16,6 +16,7 @@ This function makes the file explorer open
 This function changes the directory  placing you in the directory of your choice
 
 * ls
+
 This Function list out all the files as well as the hidden files in your current directory
 
 touch creates file 
