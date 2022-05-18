@@ -36,10 +36,14 @@ This function enable you to add words to a file
 
 This Function shows you the contents of a file
 
-### on powershell to install programs:
-choco install (program name)
-choco uninstall (program name)
-* we installed gitbash*
+## Using chocolatey functions on powershell to install/uninstall programs:
+Run powershell as an administrator and type choco install (program name) to install a program
+or choco uninstall (program name) to uninstall a program. For example to install gitbash we 
+would type:
+
+* choco install (gitbash)
+
+
 tab button auto completes
 
 
@@ -47,7 +51,6 @@ tab button auto completes
 git init makes sure that the directory can recognize get commands
 
 git add .  means add everything from the current directory
-
 git commit -m  " your commit name/dexcription"
 
 copy paste the git remote add to execute
