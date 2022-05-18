@@ -1,6 +1,6 @@
 # Command line tools,Installing chocolatey, Installing gitbash
 
-##Installing chocolatey
+## Installing chocolatey
 Choclatey enabels you to install and uninstall applications from your Windows Powershell.
 First open Windows powershell right click it and run it as an adminstrator.
 Then paste this into powershell and hit enter to install choclatey:
