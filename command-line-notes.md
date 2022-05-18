@@ -9,7 +9,7 @@ Then paste this into powershell and hit enter to install choclatey:
 
 ## Command line functions
 * explorer . 
-**makes file explorer open
+** This function makes the file explorer open
 type ls and all files appear and hidden files as weell
 
 cd (dir name)changes directory  ls list them
