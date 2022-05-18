@@ -15,9 +15,8 @@ This function makes the file explorer open
 
 This function changes the directory  placing you in the directory of your choice
 
-type ls and all files appear and hidden files as weell
-
-cd (dir name)changes directory  ls list them
+* ls
+This Function list out all the files as well as the hidden files in your current directory
 
 touch creates file 
 mkdir makes directror
