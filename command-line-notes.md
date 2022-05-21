@@ -46,18 +46,27 @@ would type:
 
 tab button auto completes
 
+## Git commands (Creating Local Repository and Pushing to Remote(Online) Repository)
 
+* git init
 
-git init makes sure that the directory can recognize get commands
+This command makes sure that the directory can recognize get commands by  generating a .git folder in the directory
 
-git add .  means add everything from the current directory
-git commit -m  " your commit name/dexcription"
+* git add . 
 
-copy paste the git remote add to execute
+This command adds everything from the current directory including changes, to the git-repository(it modifies the contents of the aforementioned .git folder)
 
-git push -u origin master 
+* git commit -m  " your update message"
 
-after these your repo will be online
+This commits the changes to be pushed to the web
+
+* copy paste the git remote add to execute
+
+* git push -u origin master 
+
+This pushes the commited changes to the web, making them acceible online
+
+After going through all these commands your repo will be available online on git hub
 
 https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html
 
