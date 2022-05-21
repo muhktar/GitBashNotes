@@ -10,31 +10,31 @@ Then paste this into powershell and hit enter to install choclatey:
 ## Command line functions
 * explorer .
 
-This function makes the file explorer open
+This function makes the file explorer open.
 
 * cd (directory name)
 
-This function changes the directory  placing you in the directory of your choice
+This function changes the directory  placing you in the directory of your choice.
 
 * ls
 
-This Function list out all the files as well as the hidden files in your current directory
+This Function list out all the files as well as the hidden files in your current directory.
 
 * mkdir 
 
-This function creates a directroy
+This function creates a directroy.
 
 * touch
 
-Thus function creates a file 
+Thus function creates a file.
 
 * nano
 
-This function enable you to add words to a file 
+This function enable you to add words to a file. 
 
 * cat 
 
-This Function shows you the contents of a file
+This Function shows you the contents of a file.
 
 ## Using chocolatey functions on powershell to install/uninstall programs:
 Run powershell as an administrator and type choco install (program name) to install a program
@@ -43,30 +43,34 @@ would type:
 
 * choco install (gitbash)
 
-
-tab button auto completes
+##### FYI: pressing the tab button auto completes in the commandline/powershell/gitbash
 
 ## Git commands (Creating Local Repository and Pushing to Remote(Online) Repository)
 
 * git init
 
-This command makes sure that the directory can recognize get commands by  generating a .git folder in the directory
+This command makes sure that the directory can recognize get commands by  generating a .git folder in the directory.
 
 * git add . 
 
-This command adds everything from the current directory including changes, to the git-repository(it modifies the contents of the aforementioned .git folder)
+This command adds everything from the current directory including changes, to the git-repository(it modifies the contents of the aforementioned .git folder).
 
 * git commit -m  " your update message"
 
-This commits the changes to be pushed to the web
+This commits the changes to be pushed to the web.
 
 * copy paste the git remote add to execute
 
 * git push -u origin master 
 
-This pushes the commited changes to the web, making them acceible online
+This pushes the commited changes to the web, making them acceible online.
 
-After going through all these commands your repo will be available online on git hub
+After going through all these commands your repo will be available online on git hub.
+### pulling changes from remote repository on GitHub to local repo
+
+* git pull origin master
+
+This command fetches the changes that are on your remote server and  places them on your local repo if it is not already on there.
 
 https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html
 
