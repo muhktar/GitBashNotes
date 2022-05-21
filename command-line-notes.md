@@ -43,7 +43,7 @@ would type:
 
 * choco install (gitbash)
 
-##### FYI: pressing the tab button auto completes in the commandline/powershell/gitbash
+
 
 ## Git commands (Creating Local Repository and Pushing to Remote(Online) Repository)
 
@@ -72,7 +72,11 @@ After going through all these commands your repo will be available online on git
 
 This command fetches the changes that are on your remote server and  places them on your local repo if it is not already on there.
 
+##### FYI: pressing the tab button auto completes in the commandline/powershell/gitbash
+
+For More Notes on GitBash/GitHub I highly reccomend: 
 https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html
+
 
 # makes title big 
 ## makes title smaller than before
