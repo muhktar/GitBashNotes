@@ -66,7 +66,7 @@ This commits the changes to be pushed to the web.
 This pushes the commited changes to the web, making them acceible online.
 
 After going through all these commands your repo will be available online on git hub.
-### pulling changes from remote repository on GitHub to local repo
+### Pulling changes from remote repository on GitHub to local repo
 
 * git pull origin master
 
@@ -74,10 +74,10 @@ This command fetches the changes that are on your remote server and  places them
 
 ##### FYI: pressing the tab button auto completes in the commandline/powershell/gitbash
 
-For More Notes on GitBash/GitHub I highly reccomend: 
+#### For More Notes on GitBash/GitHub I highly reccomend: 
 https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html
 
 
-# makes title big 
-## makes title smaller than before
-### makes title even smaller, and so on and so on(has to be .md file)
+# (#)makes title big 
+## (##)makes title smaller than before
+### (###)makes title even smaller, and so on and so on(has to be .md file)
