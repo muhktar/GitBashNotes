@@ -1,6 +1,6 @@
-#Deploying GitHub Web Pages
+# Deploying GitHub Web Pages
 
-###Step 1
+### Step 1
 * Make Sure The File in your repo you want to make a web page is called index.md
 
 ### Step 2
