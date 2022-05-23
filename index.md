@@ -69,6 +69,7 @@ After going through all these commands your repo will be available online on git
 ### Pulling changes from remote repository on GitHub to local repo
 
 * git pull origin master
+* git pull
 
 This command fetches the changes that are on your remote server and  places them on your local repo if it is not already on there.
 
