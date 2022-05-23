@@ -14,6 +14,6 @@
 * Navigate back to the settings tab of your repo
 * Select the pages tab to the left then  change the Theme under "Theme Chooser"
 
-####For More indepth info on Creating GitHub Web pages vist:
+#### For More indepth info on Creating GitHub Web pages vist:
 
 https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-githubpage/content.html
